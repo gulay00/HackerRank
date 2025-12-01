@@ -3,14 +3,14 @@
 This repository contains my Python solutions to various **HackerRank** challenges.
 
 The problems cover the most important Python fundamentals:  
-✔ loops  
-✔ lists & list comprehensions  
-✔ dictionaries  
-✔ functions  
-✔ conditionals  
-✔ math  
-✔ sorting  
-✔ problem-solving logic  
+ loops  
+ lists & list comprehensions  
+ dictionaries  
+ functions  
+ conditionals  
+ math  
+ sorting  
+ problem-solving logic  
 
 ---
 

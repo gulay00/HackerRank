@@ -1,4 +1,4 @@
-# 🧩 HackerRank Python Solutions
+#  HackerRank Python Solutions
 
 This repository contains my Python solutions to various **HackerRank** challenges.
 
@@ -14,7 +14,7 @@ The problems cover the most important Python fundamentals:
 
 ---
 
-## 📂 Files Included
+##  Files Included
 - `any_or_all.py`
 - `athlete_sort.py`
 - `captains_room.py`
@@ -29,9 +29,9 @@ The problems cover the most important Python fundamentals:
 
 ---
 
-## 🎯 Goal
+##  Goal
 I use this repository to track my progress and improve my Python logic by solving structured challenges.
 
 ---
 
-⭐ Feel free to explore the code — all solutions pass the HackerRank test cases.
+Feel free to explore the code — all solutions pass the HackerRank test cases.
